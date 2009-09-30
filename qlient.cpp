@@ -1,0 +1,6 @@
+#include <iostream.h>
+#include <gl.h>
+int main()
+{
+return 0;
+}
